@@ -8,7 +8,7 @@ represent the number 17 in the various forms of objects
  *Hint*: For creation of the Boolean, set a value for 17 to be compared against another number.
 1.	Print the value of `y1`, `y2`, `y3`, and `y4` and their types 
 (*Hint*: you can use function `type()` to get a type of an object or variable). 
-2.	Use `y1`, `y2`, or `y3` to create a variable named text such 
+2.	Use `y1`, `y2`, or `y3` to create a variable named `text` such 
 that `print(text)` prints `The value of x is 17.`
 
 **Problem 2: String Operations (Weight 1)**. 
@@ -23,13 +23,12 @@ Use string operators to create a syntactically correct sentence
  the sum of all numbers from `1` to `n`, where `n` is given as parameter. 
  Test both functions for `n = 100`.
  
- 
 **Problem 4: Lists and Mutability (Weight 2)**.  
 Create a list, named `yours`, to store my favorite schools: 
 ‘Yale’, ‘MIT’, and ‘Berkeley’; 
 and create a list, named `mine`, to store 3 of your favorite schools 
 whatever they are. 
-Use the + operator to create a new list, named `ours1`, 
+Use the `+` operator to create a new list, named `ours1`, 
 to represent our favorite schools:
 
     ours1 = mine + yours
