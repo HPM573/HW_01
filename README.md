@@ -22,7 +22,6 @@ such that `print(text1)`, `print(text2)`, and `print(text3)` print
     The value of y2 is ??
     The value of y3 is ?? 
 
-
 **Problem 2: String Operations (Weight 1)**. 
 Create a string that contains the following: 
 “I”, “love”, “learning”, “how”, “to”, “code”, and “!”. 
