@@ -10,11 +10,18 @@ Consider the number 17.
 Construct multiple variables (`y1`, `y2`, `y3`, and `y4`) in Python that 
 represent the number 17 in the various forms of objects
  (integer, float, string, and Boolean, respectively). 
- *Hint*: For creation of the Boolean, set a value for 17 to be compared against another number.
+ *Hint*: For creation of the Boolean, set a value for 17 to be compared 
+ against another number.
 1.	Print the value of `y1`, `y2`, `y3`, and `y4` and their types 
 (*Hint*: you can use function `type()` to get a type of an object or variable). 
-2.	Use `y1`, `y2`, or `y3` to create a variable named `text` such 
-that `print(text)` prints `The value of x is 17.`
+2.	Use `y1`, `y2`, and `y3` to create variables `text1`, `text2`, and `text3` 
+such that `print(text1)`, `print(text2)`, and `print(text3)` print 
+(The values of `y1`, `y2`, or `y3` should be displayed in the places of `??`): 
+
+    The value of y1 is ??
+    The value of y2 is ??
+    The value of y3 is ?? 
+
 
 **Problem 2: String Operations (Weight 1)**. 
 Create a string that contains the following: 
