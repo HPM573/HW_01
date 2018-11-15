@@ -16,10 +16,10 @@ represent the number 17 in the various forms of objects
 (*Hint*: you can use function `type()` to get a type of an object or variable). 
 2.	Use `y1`, `y2`, and `y3` to create variables `text1`, `text2`, and `text3` 
 such that `print(text1)`, `print(text2)`, and `print(text3)` print 
-(The values of `y1`, `y2`, or `y3` should be displayed in the places of `??`): 
-'
-    The value of y1 is ??
-    The value of y2 is ??
+(The values of `y1`, `y2`, or `y3` should be displayed in the places of `??`): \
+
+    `The value of y1 is ??`
+    `The value of y2 is ??` \
     The value of y3 is ?? 
 
 **Problem 2: String Operations (Weight 1)**. 
