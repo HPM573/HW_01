@@ -1,5 +1,10 @@
 # Homework Assignment 1
 
+Watch the first 6 lectures of the MIT Open Course 
+[Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/) 
+and write code to answer the questions below. 
+Add a separate .py file to your repository for each problem. 
+
 **Problem 1: Object Types (Weight 2)**. 
 Consider the number 17. 
 Construct multiple variables (`y1`, `y2`, `y3`, and `y4`) in Python that 
