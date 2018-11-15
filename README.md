@@ -18,9 +18,9 @@ represent the number 17 in the various forms of objects
 such that `print(text1)`, `print(text2)`, and `print(text3)` print 
 (The values of `y1`, `y2`, or `y3` should be displayed in the places of `??`):
 
-    `The value of y1 is ??` \
-    `The value of y2 is ??` \
-    `The value of y3 is ??`
+    `The value of y1 is ??.` \
+    `The value of y2 is ??.` \
+    `The value of y3 is ??.`
 
 **Problem 2: String Operations (Weight 1)**. 
 Create a string that contains the following: 
