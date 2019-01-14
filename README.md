@@ -54,9 +54,9 @@ but this time use:
 Answer these questions: 
 1.	Print `ours1` and `ours2`. Describe how `ours1` and `ours2` differ from 
 each other.
-2.	Change the second element of yours to something else and 
+2.	Change the second element of `yours` to something else and 
 again print `ours1` and `ours2`. 
-Explain why changing yours would changes `ours2` but not `ours1`. 
+Explain why changing `yours` would changes `ours2` but not `ours1`. 
  
 **Problem 5: Dictionaries (Weight 2).**
  Create a dictionary for the months of the year that can be called by 
