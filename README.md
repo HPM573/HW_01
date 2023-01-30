@@ -60,7 +60,7 @@ again print `ours1` and `ours2`.
 Explain why changing `yours` would changes `ours2` but not `ours1`. 
  
 **Problem 5: Dictionaries (Weight 2).**
- Create a dictionary for the months of the year that can be called by 
+ Create a siingle dictionary for the months of the year that can be called by 
  the number of months (i.e. 1, 2, ..., 12) or the name of months 
  (i.e. January, February, ..., December). If you call this dictionary `months`, 
  then `months[6]` should be `June` and `months['June']` should be `6`.
