@@ -1,15 +1,15 @@
 # Homework Assignment 1
 
-Watch the first 6 lectures of the MIT Open Course 
-[Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/) 
-and write code to answer the questions below. 
+Watch the first 6 lectures of the MIT Open Course 
+[Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/)
+and write code to answer the questions below.
 Add a separate .py file to your repository for each problem. 
 
 **Problem 1: Object Types (Weight 2)**. 
 Consider the number 17. 
-Construct multiple variables (`y1`, `y2`, `y3`, and `y4`) in Python that 
-represent the number 17 in the various forms of objects
- (integer, float, string, and Boolean, respectively). 
+Construct multiple variables `y1`, `y2`, `y3`, and `y4` in Python that 
+represent the number 17 in the various forms of objects `integer`, `float`, 
+`string`, and `Boolean`, respectively. 
  *Hint*: For creation of the Boolean, set a value for 17 to be compared 
  against another number.
 1.	Print the value of `y1`, `y2`, `y3`, and `y4` and their types 
@@ -35,7 +35,7 @@ Use string operators to create a syntactically correct sentence
  the sum of all numbers from `1` to `n`, where `n` is given as parameter. 
  Test both functions for `n = 100`.
  
-**Problem 4: Lists and Mutability (Weight 2)**.  
+**Problem 4: Lists and Mutability (Weight 2)**. 
 Create a list, named `yours`, to store my favorite schools: 
 ‘Yale’, ‘MIT’, and ‘Berkeley’; 
 and create a list, named `mine`, to store 3 of your favorite schools 
@@ -57,13 +57,13 @@ Answer these questions:
 each other.
 2.	Change the second element of `yours` to something else and 
 again print `ours1` and `ours2`. 
-Explain why changing `yours` would changes `ours2` but not `ours1`. 
+Explain why changing `yours` would change `ours2` but not `ours1`. 
  
 **Problem 5: Dictionaries (Weight 2).**
- Create a single dictionary for the months of the year that can be called by 
- the number of months (i.e. 1, 2, ..., 12) or the name of months 
- (i.e. January, February, ..., December). If you call this dictionary `months`, 
- then `months[6]` should be `June` and `months['June']` should be `6`.
- Write a statement that prints `The sixth month is June.` 
- and another statement that prints `February is month 2.`
-
+Create a single dictionary for the months of the year that can be called by 
+the number of months (i.e. 1, 2, ..., 12) or the name of months 
+(i.e. January, February, ..., December). If you call this dictionary `months`, 
+then `months[6]` should be `June` and `months['June']` should be `6`.
+Write a statement that print `The sixth month is ??.` 
+and another statement that prints `February is month ??.` 
+with correct values being printed instead of ??.  
